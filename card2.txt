@@ -1,0 +1,37 @@
+{
+  "name": "worlf",
+  "description": "card11111111",
+  "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1607059352574&di=9f41c0b7b585da76e58056e6fb70524b&imgtype=0&src=http%3A%2F%2Fa0.att.hudong.com%2F30%2F29%2F01300000201438121627296084016.jpg",
+  "external_url": "https://raw.githubusercontent.com/hualuohuasheng/testNFT/main/card2",
+  "attributes": [
+    {
+      "trait_type": "Set",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Relic"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "RektMe Rev"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Relic"
+    },
+    {
+      "trait_type": "Tag",
+      "value": "Pineapple"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1598450400
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "10000"
+    }
+  ]
+}
