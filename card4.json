@@ -1,0 +1,37 @@
+{
+  "name": "horse",
+  "description": "horse111",
+  "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1607080882581&di=087ecea6018f740dbe0d5bf2a298ef4d&imgtype=0&src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20140408%2F20140408130734-1854992764.jpg",
+  "external_url": "https://raw.githubusercontent.com/hualuohuasheng/testNFT/main/card4.json",
+  "attributes": [
+    {
+      "trait_type": "Set",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Relic"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "RektMe Rev"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Relic"
+    },
+    {
+      "trait_type": "Tag",
+      "value": "Pineapple"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1607070760
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "10000"
+    }
+  ]
+}
